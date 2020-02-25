@@ -17,5 +17,9 @@
   "dependencies": {
     "querystring": "^0.2.0",
     "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liang-yongheng/npm-vince-http.git"
   }
 }
