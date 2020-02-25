@@ -1,0 +1,21 @@
+{
+  "name": "vince-http",
+  "version": "1.0.0",
+  "description": "http tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "vince",
+    "node",
+    "nodejs"
+  ],
+  "author": "873468428@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.2"
+  }
+}
